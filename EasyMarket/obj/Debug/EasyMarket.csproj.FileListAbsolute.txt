@@ -226,7 +226,6 @@ C:\GitHub\EasyMarket\EasyMarket\bin\System.Web.WebPages.xml
 C:\GitHub\EasyMarket\EasyMarket\bin\System.Web.WebPages.Deployment.xml
 C:\GitHub\EasyMarket\EasyMarket\bin\System.Web.WebPages.Razor.xml
 C:\GitHub\EasyMarket\EasyMarket\bin\Antlr3.Runtime.pdb
-C:\GitHub\EasyMarket\EasyMarket\obj\Debug\EasyMarket.csprojAssemblyReference.cache
 C:\GitHub\EasyMarket\EasyMarket\obj\Debug\EasyMarket.csproj.CoreCompileInputs.cache
 C:\GitHub\EasyMarket\EasyMarket\obj\Debug\EasyMarket.csproj.CopyComplete
 C:\GitHub\EasyMarket\EasyMarket\obj\Debug\EasyMarket.dll
